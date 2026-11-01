@@ -1,3 +1,3 @@
 <footer>
-    <p>&copy; <?= date('Y') ?>  DebbyStore</p>
+    <p>&copy; <?= date('Y') ?>  Mystore</p>
 </footer>
